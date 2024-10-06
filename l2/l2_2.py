@@ -24,7 +24,7 @@ rdd2 = sc.parallelize([(1, "red"), (2, "yellow"), (3, "purple")])
 joined_rdd = rdd1.join(rdd2)
 
 for key, (value1, value2) in joined_rdd.collect():
-    print(f"key: {key}, value1: {value1}, value2: {value2}"
+    print(f"key: {key}, value1: {value1}, value2: {value2}")
 
 # Сохранение в файл
 rdd.saveAsTextFile("output.txt")
