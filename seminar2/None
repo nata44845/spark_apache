@@ -1,0 +1,7 @@
+Collecting pyspark
+  Using cached pyspark-3.5.3-py2.py3-none-any.whl
+Collecting py4j==0.10.9.7 (from pyspark)
+  Using cached py4j-0.10.9.7-py2.py3-none-any.whl.metadata (1.5 kB)
+Using cached py4j-0.10.9.7-py2.py3-none-any.whl (200 kB)
+Installing collected packages: py4j, pyspark
+Successfully installed py4j-0.10.9.7 pyspark-3.5.3
