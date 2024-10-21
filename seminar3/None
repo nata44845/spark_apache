@@ -1,0 +1,2 @@
+Requirement already satisfied: pyspark in c:\nata\geekbrains\gb-git\spark_apache\venv_spark_apache\lib\site-packages (3.5.3)
+Requirement already satisfied: py4j==0.10.9.7 in c:\nata\geekbrains\gb-git\spark_apache\venv_spark_apache\lib\site-packages (from pyspark) (0.10.9.7)
